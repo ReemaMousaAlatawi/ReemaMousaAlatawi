@@ -12,13 +12,13 @@
 <br>
 <div align="center" style="margin-top: 10px;">
   <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AishaAli-a&show_icons=true&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AishaAli-a&show_icons=true&theme=dracula" />
   </a>
 </div> 
 <br>
 <div align="center" style="margin-top: 10px;">
   <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AishaAli-a&layout=compact&show_icons=true&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AishaAli-a&layout=compact&show_icons=true&theme=dracula" />
   </a>
 </div>
 
