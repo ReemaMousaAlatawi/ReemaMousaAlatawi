@@ -12,7 +12,7 @@
 <br>
 <div align="center" style="margin-top: 10px;">
   <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=2FReemaMousaAlatawi&show_icons=true&theme=dracula" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ReemaMousaAlatawi&show_icons=true&theme=dracula" />
   </a>
 </div> 
 <br>
