@@ -1,12 +1,8 @@
 # 🚦 Smart Traffic Management System
 
-<div align="center">
-
 ### Real-Time Object Detection & Multi-Object Tracking
 
 **YOLOv5 + Deep SORT + OpenCV**
-
-</div>
 
 ---
 
@@ -35,8 +31,8 @@ This project demonstrates how **Computer Vision, Object Detection, and Multi-Obj
 
 ## 🛠️ Technologies
 
-| Technology | Purpose |
-|------------|---------|
+| **Technology** | **Purpose** |
+|---|---|
 | Python | Main programming language |
 | PyTorch | Deep learning framework |
 | YOLOv5 | Object detection |
@@ -70,7 +66,13 @@ This project demonstrates how **Computer Vision, Object Detection, and Multi-Obj
                          │
                          ▼
                 Traffic Monitoring
+```
 
+---
+
+## 📁 Project Structure
+
+```text
 Yolov5_DeepSort_Pytorch/
 │
 ├── deep_sort/
@@ -93,7 +95,7 @@ Yolov5_DeepSort_Pytorch/
 ├── requirements.txt
 ├── yolov5n.pt
 └── README.md
-
+```
 
 ---
 
@@ -104,10 +106,7 @@ Yolov5_DeepSort_Pytorch/
 ```bash
 git clone https://github.com/ReemaMousaAlatawi/ReemaMousaAlatawi.git
 cd ReemaMousaAlatawi
-pip install -r requirements.txt
-python track.py --source videos/Traffic.mp4
-python track.py --source 0
-python track.py --source path/to/video.mp4
+```
 
 ### 2. Install the required dependencies
 
@@ -115,6 +114,7 @@ Make sure you have **Python 3.8 or later** installed.
 
 ```bash
 pip install -r requirements.txt
+```
 
 ---
 
@@ -124,17 +124,33 @@ pip install -r requirements.txt
 
 ```bash
 python track.py --source videos/Traffic.mp4
+```
 
+### Run using a webcam
+
+```bash
 python track.py --source 0
+```
 
+### Run another video
+
+```bash
 python track.py --source path/to/video.mp4
+```
 
 ---
 
-## 🎯 Features
+## 📌 Notes
 
-- Real-time object detection using YOLOv5
-- Multi-object tracking using Deep SORT
-- Supports video files, images, and webcam
-- Tracks multiple objects simultaneously
-- Easy-to-use Python implementation
+- The system uses YOLOv5 for object detection.
+- Deep SORT is used to maintain unique IDs for tracked objects.
+- The included `Traffic.mp4` video can be used to test the tracker.
+- The tracker supports both video files and webcam input.
+
+---
+
+## 👩‍💻 Author
+
+**Reema Mousa Alatawi**
+
+Computer Science | Computer Vision | Data Engineering
