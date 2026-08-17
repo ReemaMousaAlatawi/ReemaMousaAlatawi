@@ -1,15 +1,17 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Reema%20Mousa&fontSize=45&fontAlignY=35&animation=fadeIn"/>
+
 # Hi, I'm Reema 👋
 
-### Data Engineer | Python | SQL | Cloud ☁️
+### 💻 Data Engineer | 📱 iOS Developer | ☁️ Cloud Enthusiast
 
 <p>
   <a href="https://github.com/ReemaMousaAlatawi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -19,43 +21,64 @@
 
 ## 👩🏻‍💻 About Me
 
-I'm a Computer Science graduate interested in **Data Engineering, Cloud Computing, and Backend Technologies**.
+I'm a **Computer Science graduate** passionate about building useful technology and learning modern engineering tools.
 
-I enjoy building data pipelines, working with databases, and exploring cloud technologies.
+💻 **iOS Development**
+I build iOS applications using **Swift and UIKit**.
 
-Currently focusing on:
+📊 **Data Engineering**
+I'm developing my skills in **Python, SQL, Docker, Cloud Computing, Databricks, and Snowflake**.
 
-- 🐍 Python
-- 🗄️ SQL
-- 🐳 Docker
-- ☁️ AWS & Azure
-- ❄️ Snowflake
-- 🔥 Databricks
-- 📊 Data Engineering
+☁️ **Cloud & Data Platforms**
+Interested in building scalable data solutions and working with modern cloud technologies.
 
 ---
 
 ## 🛠️ Tech Stack
 
+### 💻 Programming Languages
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,swift,cs,html,css,js,git,github,docker,aws,azure&perline=6" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,swift,cs,html,css,js&perline=6"/>
 
 </div>
 
----
-
-## 📊 GitHub
+### 📱 iOS Development
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=ReemaMousaAlatawi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170">
+<img src="https://skillicons.dev/icons?i=swift&perline=6"/>
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ReemaMousaAlatawi&layout=compact&theme=tokyonight&hide_border=true" height="170">
+</div>
+
+**Swift • UIKit • iOS**
+
+### 📊 Data Engineering
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,docker&perline=6"/>
+
+</div>
+
+**Python • SQL • Docker • Pandas • NumPy**
+
+### ☁️ Cloud & Data Platforms
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,azure&perline=6"/>
+
+</div>
+
+**AWS • Azure • Databricks • Snowflake**
+
+### 🔧 Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=6"/>
 
 </div>
 
@@ -65,11 +88,13 @@ Currently focusing on:
 
 ### 🚦 Smart Traffic Management System
 
-An AI-based traffic management project using:
+AI-powered traffic monitoring system using:
 
-**YOLOv5 + DeepSORT + Python**
+* **YOLOv5**
+* **DeepSORT**
+* **Python**
 
-Designed to detect and track vehicles and improve traffic monitoring.
+The project focuses on vehicle detection and tracking for smarter traffic monitoring.
 
 ---
 
@@ -79,19 +104,49 @@ Developed iOS applications using:
 
 **Swift + UIKit**
 
-with focus on clean UI and user experience.
+with focus on clean interfaces, usability, and mobile application development.
 
 ---
 
 ## 📚 Currently Learning
 
+<div align="center">
+
 ```text
+Python
+   ↓
+SQL
+   ↓
+Docker
+   ↓
 Data Engineering
-      ↓
-Python → SQL → Docker
-      ↓
-Cloud Computing
-      ↓
+   ↓
 AWS / Azure
-      ↓
+   ↓
 Databricks / Snowflake
+```
+
+</div>
+
+---
+
+## 🌱 My Interests
+
+<div align="center">
+
+📊 Data Engineering    |   
+📱 iOS Development    |   
+☁️ Cloud Computing    |   
+🤖 AI & Machine Learning
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
+</div>
