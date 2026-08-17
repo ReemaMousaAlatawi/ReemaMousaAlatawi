@@ -104,6 +104,10 @@ Yolov5_DeepSort_Pytorch/
 ```bash
 git clone https://github.com/ReemaMousaAlatawi/ReemaMousaAlatawi.git
 cd ReemaMousaAlatawi
+pip install -r requirements.txt
+python track.py --source videos/Traffic.mp4
+python track.py --source 0
+python track.py --source path/to/video.mp4
 
 ### 2. Install the required dependencies
 
