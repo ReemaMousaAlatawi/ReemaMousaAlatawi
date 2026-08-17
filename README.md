@@ -6,13 +6,25 @@
 
 ---
 
-## Introduction
+## 📖 Introduction
 
 This project is a real-time traffic monitoring and object tracking system that combines **YOLOv5** for object detection with **Deep SORT** for multi-object tracking.
 
 The system detects and tracks vehicles and other objects in traffic video streams while maintaining a unique ID for each detected object across frames.
 
 This project demonstrates how **Computer Vision, Object Detection, and Multi-Object Tracking** can be combined to build intelligent traffic monitoring solutions.
+
+---
+
+## 🎥 Demo
+
+### 🚗 Real-Time Object Tracking
+
+![Traffic Tracking](MOT16_eval/track_all.gif)
+
+### 👤 Pedestrian Tracking
+
+![Pedestrian Tracking](MOT16_eval/track_pedestrians.gif)
 
 ---
 
@@ -31,7 +43,7 @@ This project demonstrates how **Computer Vision, Object Detection, and Multi-Obj
 
 ## 🛠️ Technologies
 
-| **Technology** | **Purpose** |
+| Technology | Purpose |
 |---|---|
 | Python | Main programming language |
 | PyTorch | Deep learning framework |
@@ -87,6 +99,8 @@ Yolov5_DeepSort_Pytorch/
 │   └── detect.py
 │
 ├── MOT16_eval/
+│   ├── track_all.gif
+│   └── track_pedestrians.gif
 │
 ├── videos/
 │   └── Traffic.mp4
