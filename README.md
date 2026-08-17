@@ -163,8 +163,29 @@ python track.py --source path/to/video.mp4
 
 ---
 
-## 👩‍💻 Author
+---
 
-**Reema Mousa Alatawi**
+## 🎓 Training Program
 
-Computer Science | Computer Vision | Data Engineering
+**Samsung Innovation Campus – Immersive with Misk Skills**
+
+Samsung Innovation Campus
+
+---
+
+## 👥 Team Members
+
+This project was developed collaboratively as part of the **Samsung Innovation Campus – Immersive with Misk Skills** program.
+
+- **Reema Mousa Alatawi**
+- **Majed Alshnifi**
+- **Taif Moied**
+- **Rana Almohaimeed**
+- **Gadah Alqahtani**
+- **Meshal Alotaibi**
+
+---
+
+## 👩‍💻 My Role
+
+Worked on the development and implementation of the **YOLOv5 + Deep SORT** object detection and multi-object tracking system.
