@@ -186,6 +186,7 @@ This project was developed collaboratively as part of the **Samsung Innovation C
 
 ---
 
-## 👩‍💻 My Role
+## 🤝 Collaboration
 
-Worked on the development and implementation of the **YOLOv5 + Deep SORT** object detection and multi-object tracking system.
+This project was developed as a collaborative team project.  
+I contributed to the project, supported the team, and gained hands-on experience in **Computer Vision, Object Detection, and Multi-Object Tracking**.
