@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FReemaMousaAlatawi&count_bg=%231B96F5&title_bg=%23555555&icon=swift.svg&icon_color=%23E97A22&title=hits&edge_flat=false"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ReemaMousaAlatawi&show_icons=true&theme=dracula&cache_seconds=86400" />
   </a>
 </div>
 
@@ -14,7 +14,7 @@
 
 <div align="center">
   <a href="https://github.com/ReemaMousaAlatawi">
-    <img src="https://github-readme-stats.vercel.app/api?username=ReemaMousaAlatawi&show_icons=true&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReemaMousaAlatawi&layout=compact&theme=dracula&cache_seconds=86400" />
   </a>
 </div>
 
